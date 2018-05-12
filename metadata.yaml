@@ -1,0 +1,28 @@
+_repo: Socialism--Positive-and-Negative_23574
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: La Monte, Robert Rives
+    aliases:
+    - Monte, Robert Rives la
+    - Monte, Robert Rives La
+    gutenberg_agent_id: '7996'
+    url: http://www.gutenberg.org/2009/agents/7996
+description: ''
+gutenberg_issued: '2007-11-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23574'
+  lccn: 07021308
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Socialism'
+- !lcc 'HX'
+title: 'Socialism: Positive and Negative'
+url: http://www.gutenberg.org/ebooks/23574
